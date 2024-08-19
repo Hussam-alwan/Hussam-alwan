@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">I'm Hussam Eddin Alwan<br><br>🔭 I’m working as Backend-Developer<br>📚 I'm currently learning Java spring<br>⚡ In my free time I am practice chess and sports<br>👀 I’m interested in Problem Solving</p>
+<p align="left">I'm Hussam Eddin Alwan<br><br>🔭 I’m working as Backend-Developer<br>📚 I'm currently learning Java Spring<br>⚡ In my free time I practice chess and sports<br>👀 I’m interested in Problem Solving</p>
 
 ###
 
@@ -70,6 +70,3 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Hussam-alwan/Hussam-alwan/output/snake.svg" alt="Snake animation" />
-
-###
